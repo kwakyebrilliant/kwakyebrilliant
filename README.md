@@ -5,7 +5,7 @@
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Brilliant+%F0%9F%91%8B;Blockchain+Developer;AI+&+ML+Enthusiast;AR+Enthusiast;Full-Stack+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
-    <div align=center>
+    <div align=center> 
         <a href="https://www.linkedin.com/in/amoah-kwakye-b8660b189/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://www.upwork.com/freelancers/~01f05a7e9694ea2780?viewMode=1"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
     </div>
